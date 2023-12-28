@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-This is practice
+Hello Coursera!
 </head>
 <body>
-<h1> Hello im still new to this </h1>
+<h1> Hello Coursera! </h1>
 </body>
 </html>
