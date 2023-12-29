@@ -1,10 +1,12 @@
-
-<!DOCTYPE html>
 <html>
 <head>
-Hello Coursera!
+<meta charset="utf-8">
+<title> Coursera is Cool!</title>
 </head>
 <body>
-<h1> Hello Coursera! </h1>
+	Coursera is so COOL! I am learning SO much!
 </body>
 </html>
+
+
+
